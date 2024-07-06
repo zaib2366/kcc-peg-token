@@ -1,4 +1,4 @@
-# kcc-peg-token
+183a18839093d5cbb54804bf84ae97b3458733ea# kcc-peg-token
 KCC Peg Token Factory
 
 ## Install dependency
